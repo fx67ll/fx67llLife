@@ -1,8 +1,11 @@
 <template>
 	<view class="content">
-		<image class="logo" src="/static/logo.png"></image>
+		<image class="logo" src="/static/fx67ll.png"></image>
 		<view class="text-area">
 			<text class="title">{{title}}</text>
+		</view>
+		<view class="text-test">
+			<text class="title">跳转第三方App</text>
 		</view>
 	</view>
 </template>
@@ -11,7 +14,7 @@
 	export default {
 		data() {
 			return {
-				title: 'Hello'
+				title: 'fx67ll'
 			}
 		},
 		onLoad() {
