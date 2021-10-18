@@ -1,5 +1,5 @@
 # fx67llLife
-code what i like
+code is my life!
 
 想做个App来记录一些和生活有关的内容
 就是相当于把生活中，分散记录在其他地方的数据收集起来的感觉
